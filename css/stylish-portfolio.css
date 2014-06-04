@@ -143,7 +143,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/universe.jpg) no-repeat center center fixed; 
+  background: url(../img/universe.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -162,7 +162,7 @@ body {
   text-align: auto;
 /*  clear: both;*/
   font-size: 1.5em;
-  font-family: 'Josefin Sans', 'sans-serif'; 
+  font-family: 'Josefin Sans', 'sans-serif';
   background: #566B4C;
   padding: 50px 0;
   color: #ffffff;
@@ -182,7 +182,7 @@ i.service-icon {
   width: 50px;
   height: 50px;
   line-height: 50px;
-  vertical-align: middle; 
+  vertical-align: middle;
   text-align: center;
 }
 
@@ -193,7 +193,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/sunset-oil.jpg) no-repeat center center fixed; 
+  background: url(../img/sunset-oil.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -205,7 +205,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/water.jpg) no-repeat center center fixed; 
+  background: url(../img/water.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -219,7 +219,7 @@ i.service-icon {
   text-align: center;
   clear: both;
   font-size: 1.5em;
-  font-family: 'Josefin Sans', 'sans-serif'; 
+  font-family: 'Josefin Sans', 'sans-serif';
   background: #ffffff;
   padding: 50px 0;
   color: #566B4C;
@@ -244,7 +244,7 @@ i.service-icon {
   text-align: center;
   clear: both;
   font-size: 1.5em;
-  font-family: 'Josefin Sans', 'sans-serif'; 
+  font-family: 'Josefin Sans', 'sans-serif';
   background: #ffffff;
   padding: 50px 0;
   color: #566B4C;
@@ -255,7 +255,7 @@ i.service-icon {
 .map {
   text-align: center;
   font-size: 1.5em;
-  font-family: 'Josefin Sans', 'sans-serif'; 
+  font-family: 'Josefin Sans', 'sans-serif';
   background: #ffffff;
   padding: 50px 0;
   color: #566B4C;
@@ -273,7 +273,7 @@ i.service-icon {
   padding: 50px;
   clear: both;
   font-size: 1.5em;
-  font-family: 'Josefin Sans', 'sans-serif'; 
+  font-family: 'Josefin Sans', 'sans-serif';
   margin-top: 50px;
 }
 
@@ -307,17 +307,17 @@ i.scroll:hover {
 /* Responsive */
 
 @media (max-width: 768px) {
-	
+
   .header {
-	background: url(../img/universe.jpg) no-repeat center center scroll; 
+	background: url(../img/outer-space.jpg) no-repeat center center scroll;
   }
 
   .callout {
-	background: url(../img/sunset-oil.jpg) no-repeat center center scroll; 
+	background: url(../img/sunset-oil.jpg) no-repeat center center scroll;
   }
 
    .callout2 {
-  background: url(../img/water.jpg) no-repeat center center scroll; 
+  background: url(../img/water.jpg) no-repeat center center scroll;
   }
 
 }
